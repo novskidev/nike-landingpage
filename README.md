@@ -1,6 +1,6 @@
 # React + Vite
 
-Nike Shoes Website Clone created with React.js
+Nike Shoes Website Clone created with React.js and Tailwind.css
 
 Currently, two official plugins are available:
 
